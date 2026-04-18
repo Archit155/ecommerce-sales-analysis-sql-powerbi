@@ -71,3 +71,10 @@ Profit = Payment Value – Freight Value
 
 This is an approximation due to the absence of product cost data.
 ---
+<p align="center">
+  <img src="Images/dashboardd -1.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Images/dashboard -2.png" width="800"/>
+</p>
