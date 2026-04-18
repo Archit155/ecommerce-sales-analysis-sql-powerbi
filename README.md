@@ -1,6 +1,6 @@
 # E-Commerce Sales Analysis (SQL & Power BI)
 
-This project focuses on analyzing an e-commerce dataset to uncover key business insights related to sales performance, customer behavior, and operational efficiency. The analysis was performed using SQL for data preparation and Power BI for visualization.
+This project focuses on analyzing an e-commerce dataset to uncover key business insights related to sales performance, customer behavior, and operational efficiency. The analysis was performed using SQL and Power BI.
 
 ---
 
@@ -70,11 +70,9 @@ Profit = Payment Value – Freight Value
 ```
 
 This is an approximation due to the absence of product cost data.
----
-<p align="center">
-  <img src="Images/dashboardd -1.png" width="800"/>
-</p>
 
-<p align="center">
-  <img src="Images/dashboard -2.png" width="800"/>
-</p>
+---
+
+![Dashboard 1](Images/Dashboard%20-1.png)
+
+![Dashboard 2](Images/Dashboard%20-2.png)
